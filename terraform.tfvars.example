@@ -1,0 +1,3 @@
+region       = "us-east-1"
+umbral_tna   = 60
+budget_email = "tu-email@ejemplo.com"
